@@ -5,5 +5,5 @@
   "[css]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint"
   },
-  // "stylelint.configFile": ".stylelintrc.js",
+  "stylelint.configFile": ".stylelintrc.js",
 }
